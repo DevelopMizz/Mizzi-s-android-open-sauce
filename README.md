@@ -1,4 +1,4 @@
-# Mizzi's-android-open-sauce community
+# Mizzi's android open sauce community
 This is an open source repository for android based projects.   
 
 Current projects: 0;
